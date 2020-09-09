@@ -868,7 +868,7 @@ public class Perk {
 			null, null, null) {
 		@Override
 		public String getDescription(GameCharacter owner) {
-			return UtilText.parse(owner, "Being able to harness the arcane, and therefore able to telekinetically manipulate manner, [npc.nameIsFull] a very valuable asset for construction firms to have in their employ.");
+			return UtilText.parse(owner, "Being able to harness the arcane, and therefore able to telekinetically manipulate matter, [npc.nameIsFull] a very valuable asset for construction firms to have in their employ.");
 		}
 	};
 	
